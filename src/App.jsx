@@ -301,17 +301,6 @@ export default function App() {
               <a href="#how-it-works">How It Works</a>
               <a href="#download">Download</a>
             </div>
-            <div className="footer-col">
-              <span className="footer-col-title">Company</span>
-              <a href="#">About</a>
-              <a href="#">Blog</a>
-              <a href="#">Contact</a>
-            </div>
-            <div className="footer-col">
-              <span className="footer-col-title">Legal</span>
-              <a href="#">Privacy Policy</a>
-              <a href="#">Terms of Service</a>
-            </div>
           </div>
         </div>
         <div className="footer-bottom">
